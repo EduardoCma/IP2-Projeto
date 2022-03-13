@@ -3,6 +3,7 @@
 ## Integrantes do Grupo:
 * Eduardo Chaves Muniz de Andrade - cma.eduardo@gmail.com
 * Martha Lacerda Emidio da Silva - martinha.lacerda@gmail.com
+* Irlan Farias de Andrade - irlanff@hotmail.com
 
 ## Descrição Geral do Projeto
 A principal funcionalidade do sistema é administrar um grupo de maracatu percussivo, levando em consideração o calendário de aulas, conteúdo, mensalidades das aulas e solicitação de serviços de aluguel e manutenção de instrumentos. 
